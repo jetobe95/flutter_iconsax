@@ -7,7 +7,7 @@ issue_tracker: https://github.com/luisDanielRoviraContreras/flutter_iconsax/issu
 documentation: https://github.com/luisDanielRoviraContreras/flutter_iconsax
 
 environment:
-  sdk: ">=3.0.1 <4.0.0"
+  sdk: ">=2.16.0 <3.0.0"
 
 dependencies:
   flutter:
